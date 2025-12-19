@@ -1,16 +1,34 @@
-## Hi there 👋
+# Ashish Kumar
 
-<!--
-**Ash22686/Ash22686** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering Student | AI • Cybersecurity • IoT • Full-Stack Development
 
-Here are some ideas to get you started:
+I build practical, system-level solutions by combining machine learning, cybersecurity,
+and modern web technologies. My work focuses on real-world problem solving, performance,
+and clean system design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+
+## Technical Skills
+
+**Languages:** Java, Python, JavaScript  
+**Web:** React, Node.js, Express, REST APIs  
+**AI / ML:** NLP, XGBoost, Logistic Regression, Ensemble Models, Whisper  
+**Cybersecurity:** Wireshark, Snort, Scapy, Network Traffic Analysis  
+**Databases:** MongoDB, MySQL  
+**IoT:** ESP8266, Sensors, ThingSpeak  
+**Tools:** Git, GitHub, Linux  
+
+---
+
+## GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true)
+
+---
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/ashish-kumar-457932314/  
+- Portfolio: https://ashkfolio.netlify.app/
+- Email: ashishkumar04415@gmail.com
