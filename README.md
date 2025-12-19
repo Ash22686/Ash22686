@@ -23,7 +23,7 @@ and clean system design.
 
 ## GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ash22686&show_icons=true&hide_border=true)
 
 ---
 
